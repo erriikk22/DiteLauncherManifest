@@ -1,0 +1,2 @@
+# DiteLauncherManifest
+manifest.json
