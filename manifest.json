@@ -1,19 +1,9 @@
 {
   "mods": [
     {
-      "name": "Just Enough Items (JEI)",
-      "file": "jei_1.12.2-4.16.1.301.jar",
-      "url": "https://media.forgecdn.net/files/3180/369/jei_1.12.2-4.16.1.301.jar"
-    },
-    {
       "name": "JourneyMap",
-      "file": "journeymap-1.12.2-5.7.1.jar",
-      "url": "https://media.forgecdn.net/files/3112/177/journeymap-1.12.2-5.7.1.jar"
-    },
-    {
-      "name": "Inventory Tweaks",
-      "file": "InventoryTweaks-1.63.jar",
-      "url": "https://media.forgecdn.net/files/2771/673/InventoryTweaks-1.63.jar"
+      "file": "journeymap-1.12.2-5.9.0.jar",
+      "url": "https://edge.forgecdn.net/files/5172/461/journeymap-1.12.2-5.9.0.jar"
     }
   ]
 }
