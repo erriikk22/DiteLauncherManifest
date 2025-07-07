@@ -1,9 +1,6 @@
 {
-  "mods": [
-    {
-      "name": "JourneyMap",
-      "file": "journeymap-1.12.2-5.9.0.jar",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/journeymap/download/5172461"
-    }
-  ]
+  "modpack": {
+    "version": "1.0.0",
+    "download": "https://onedrive.live.com/download?resid=TU_ID_UNICO&authkey=TU_CLAVE"
+  }
 }
