@@ -10,8 +10,8 @@
     "download": "https://www.dropbox.com/scl/fi/s75tr9tkdqd85j0rw813w/Shaderpacks.zip?rlkey=n2zaj9xp8dxauicgxahmtyrgy&st=7ht8bzzi&dl=1"
   },
   "texturepack": {
-    "available": false,
-    "version": null,
-    "download": null
+    "available": true,
+    "version": 1.0,
+    "download": "https://www.dropbox.com/scl/fi/ggt56pqvsslpx79rysv97/texturepack.zip?rlkey=a0ryuvw3z6e1z7tfdktezwtov&st=v8h9xf4r&dl=1"
   }
 }
