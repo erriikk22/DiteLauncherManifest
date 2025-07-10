@@ -11,7 +11,12 @@
   },
   "texturepack": {
     "available": true,
-    "version": 1.0,
+    "version": "1.0.0",
     "download": "https://www.dropbox.com/scl/fi/ggt56pqvsslpx79rysv97/texturepack.zip?rlkey=a0ryuvw3z6e1z7tfdktezwtov&st=v8h9xf4r&dl=1"
+  },
+  "server": {
+    "available": true,
+    "ip": "test-Tn7Z.aternos.me",
+    "port": 58077
   }
 }
